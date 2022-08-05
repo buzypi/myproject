@@ -78,4 +78,11 @@
       </plugins>
     </pluginManagement>
   </build>
+  <distributionManagement>
+    <repository>
+      <id>central</id>
+      <name>jnaapti-libs-snapshot</name>
+      <url>http://192.46.213.223:8081/artifactory/jnaapti-libs-snapshot-local</url>
+    </repository>
+  </distributionManagement>
 </project>
