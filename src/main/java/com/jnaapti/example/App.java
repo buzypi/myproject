@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello, today is Aug 5th 2022!" );
+        System.out.println( "Hello, committing from Github!" );
     }
 }
